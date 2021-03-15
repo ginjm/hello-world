@@ -1,7 +1,7 @@
 # hello-world
-00_First repository
+00_first repository
 
 #Introduction
-Hello everyone
-This is my first Github trial
-Pls be nice to me :)
+hello everyone
+this is my first github trial
+pls be nice to me :)
